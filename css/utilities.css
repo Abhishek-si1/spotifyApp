@@ -1,0 +1,78 @@
+/* Invert filter */
+.invert {
+  filter: invert(1);
+}
+
+/* Flexbox */
+.flex {
+  display: flex;
+}
+
+/* Rounded corners */
+.rounded {
+  border-radius: 7px;
+}
+
+/* Margin */
+.m-1 {
+  margin: 5px;
+}
+
+/* Padding */
+.p-1 {
+  padding: 10px;
+}
+
+/* Background colors */
+.bg-grey {
+  background-color: #121212;
+}
+
+.bg-black {
+  background-color: black;
+  color: white;
+}
+
+/* Justify content */
+.justify-content {
+  justify-content: center;
+}
+
+/* Align items */
+.items-center {
+  align-items: center;
+}
+
+/* Border */
+.border {
+  border: 2px solid green;
+  color: white;
+  margin: 3px;
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px;
+  /* Adjust width for vertical scrollbar */
+  height: 12px;
+  /* Adjust height for horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+  /* Black background for the track */
+  border-radius: 10px;
+  /* Rounded corners for the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(45, 44, 44);
+  /* Dark grey for the thumb */
+  border-radius: 10px;
+  /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: grey;
+  /* Slightly lighter grey on hover */
+}
