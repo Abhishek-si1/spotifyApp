@@ -1,0 +1,8 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- No animation, all bars scaled down -->
+  <rect x="20"  y="90" width="20" height="10" fill="#6EE7F9" rx="3"/>
+  <rect x="50"  y="90" width="20" height="10" fill="#22D3EE" rx="3"/>
+  <rect x="80"  y="90" width="20" height="10" fill="#0EA5E9" rx="3"/>
+  <rect x="110" y="90" width="20" height="10" fill="#0284C7" rx="3"/>
+  <rect x="140" y="90" width="20" height="10" fill="#0369A1" rx="3"/>
+</svg>
